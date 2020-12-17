@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d51bea2-736a-40ef-b228-7d27a3636b16" name="Default Changelist" comment="" />
+    <list default="true" id="3d51bea2-736a-40ef-b228-7d27a3636b16" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cmd/add.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/task-cli.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/task-cli.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmd/root.go" beforeDir="false" afterPath="$PROJECT_DIR$/cmd/root.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,8 +108,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build github.com/mattmc96/task-cli" />
         <item itemvalue="Go Build.go build root.go" />
+        <item itemvalue="Go Build.go build github.com/mattmc96/task-cli" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608051529347</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chores">
+      <created>1608176803140</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608176803140</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
